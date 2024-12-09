@@ -109,6 +109,8 @@
     <li>Optional Chaining</li>
     <li>Super Challenge Library Software</li>
     <li>Logical Operators & Coalescing Outro</li>
+	</ol>
+	</li>
   <li><h2>Working with Objects</h2>
   <ol type="6.a">
     <li>Working with Objects Intro</li>
