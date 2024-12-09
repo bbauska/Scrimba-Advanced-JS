@@ -1,4 +1,4 @@
-# Scrimba-Advanced-JS Scrimba's Advanced JavaScript
+<h1>Scrimba's Advanced JavaScript</h1>
 
 <ol type="1">
   <li><h2>Advanced Foundations</h2>
