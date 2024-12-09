@@ -2,7 +2,7 @@
 
 <ol type="1">
   <li><h2>Advanced Foundations</h2>
-  <ol type="a">
+  <ol type="1.a">
     <li>Course Intro</li>
     <li>Advanced Foundations Intro</li>
     <li>The Ternary Operator</li>
@@ -28,7 +28,7 @@
   </ol>
   </li>
   <li><h2>Methods & Loops</h2>
-  <ol type="a">
+  <ol type="2.a">
     <li>Methods & Loops Intro</li>
     <li>The for..of loop</li>
     <li>The for..in loop</li>
@@ -54,6 +54,7 @@
   </ol>
   </li>
   <li><h2>Function Expressions & Parameters</h2>
+  <ol type="3.a">
     <li>Function Expressions & Parameters Intro</li>
     <li>Function Expressions</li>
     <li>Function Expressions Challenge</li>
@@ -70,110 +71,122 @@
     <li>Function Expressions and Parameters Outro</li>
     </ol>
 	</li>
-	<li><h2>Asynchronous JavaScript & APIs</h2>
-  - a.	Asynchronous JavaScript  & APIs Intro
-  - b.	What is an API?
-  - c.	Clients & Servers
-  - d.	Requests & Responses
-  - e.	JSON Review
-  - f.	URLs and Endpoints
-  - g.	Fetching with .then()
-  - h.	Fetching with .then() Challenge
-  - i.	Fetching with async/await
-  - j.	Fetching with async/await Challenge
-  - k.	Promises
-  - l.	Handling Rejected Promises
-  - m.	response.ok
-  - n.	Taking APIs to the Next Level
-  - o.	API requests: the body
-  - p.	The Promise Constructor
-  - q.	Working with images asynchronously
-  - r.	Promise Challenge
-  - s.	Callback Hell
-  - t.	Using Promises to escape Callback Hell
-  - u.	Promise.all
-  - v.	Super Challenge: Async Image Load
-  - w.	Asynchronous JavaScript & APIs Outro
-  
-  ## 5.	Logical Operators & Coalescing
-  - a.	Logical Operators & Coalescing Intro
-  - b.	Short-circuiting with OR (||)
-  - c.	Short-circuiting with OR (||) Challenge
-  - d.	Short-circuiting with AND (&&)
-  - e.	Short-circuiting with AND (&&) Challenge
-  - f.	Nullish Coalescing
-  - g.	Optional Chaining
-  - h.	Super Challenge Library Software
-  - i.	Logical Operators & Coalescing Outro
-  
-  ## 6.	Working with Objects
-  - a.	Working with Objects Intro
-  - b.	Objects and Inbuilt Methods
-  - c.	Object Methods Challenges 1
-  - d.	Object Methods Challenges 2
-  - e.	Object.hasOwn & .hasOwnProperty()
-  - f.	Assignment by Value/Reference
-  - g.	Spread Operator(…)
-  - h.	Spread Operator(…) Challenge
-  - i.	 Object.assign
-  - j.	structuredClone
-  - k.	Objects with Methods and ‘this’
-  - l.	Binding ‘this’
-  - m.	Binding ‘this’ Challenge
-  -n.	Working with Objects Outro
-  
-  ## 7.	Creating Custom Objects
-  - a.	Creating Custom Objects Intro
-  - b.	Creating Objects Explainer
-  - c.	Factory Functions
-  - d.	Constructor Functions
-  - e.	Constructor Functions Challenge
-  - f.	Constructor Functions to Classes
-  - g.	Constructor Functions to Classes Challenge
-  - h.	.apply() and .call()
-  - i.	Inheritance Explainer
-  - j.	Inheritance with constructor functions
-  - k.	Inheritance with constructor functions Challenge
-  - l.	Inheritance with classes
-  - m.	Inheritance with classes Challenge
-  - n.	Static metods and properties
-  - o.	Static methods Challenge
-  - p.	Private Fields
-  - q.	Getters and Setters
-  - r.	Getters and Setters Challenge
-  - s.	Super Challenge: Game Characters
-  - t.	Creating Custom Objects Outro
-
-  ## 8.	Collections & Symbols
-  - a.	Colllections and Symbols Intro
-  - b.	Symbols
-  - c.	Symbols Challenge
-  - d.	The Map object
-  - e.	Map Object Challenge
-  - f.	The Set Object
-  - g.	Sets Challenge
-  - h.	Collections and Symbols outro
-
-  ## 9.	Advanced Function Patters & Generators
-  - a.	Advanced Function Patters Intro
-  - b.	Closures
-  - c.	Closures Part 2
-  - d.	Closures Challenge
-  - e.	IIFEs
-  - f.	Recursion Basic Example
-  - g.	Rcursion Sum all numbers
-  - h.	Recursion and Unwinding
-  - i.	Recursion Challenge
-  - j.	Currying
-  - k.	Currying Partial Application
-  - l.	Currying challenge
-  - m.	Throttling and Debouncing
-  - n.	Throttling
-  - o.	Throttling Debug Challenge
-  - p.	Debouncing
-  - q.	Generators
-  - r.	Generators Challenge
-  - s.	Debouncing and Generators Super Challenge
-  - t.	Super Challenge Recursion
-  - u.	Advanced Function Patterns outro
-  - v.	Course Outro
+  <li><h2>Asynchronous JavaScript & APIs</h2>
+  <ol type="4.a">
+    <li>Asynchronous JavaScript  & APIs Intro</li>
+    <li>What is an API?</li>
+    <li>Clients & Servers</li>
+    <li>Requests & Responses</li>
+    <li>JSON Review</li>
+    <li>URLs and Endpoints</li>
+    <li>Fetching with .then()</li>
+    <li>Fetching with .then() Challenge</li>
+    <li>Fetching with async/await</li>
+    <li>Fetching with async/await Challenge</li>
+    <li>Promises</li>
+    <li>Handling Rejected Promises</li>
+    <li>response.ok</li>
+    <li>Taking APIs to the Next Level</li>
+    <li>API requests: the body</li>
+    <li>The Promise Constructor</li>
+    <li>Working with images asynchronously</li>
+    <li>Promise Challenge</li>
+    <li>Callback Hell</li>
+    <li>Using Promises to escape Callback Hell</li>
+    <li>Promise.all</li>
+    <li>Super Challenge: Async Image Load</li>
+    <li>Asynchronous JavaScript & APIs Outro</li>
+    </ol>
+	</li>
+  <li><h2>Logical Operators & Coalescing</h2>
+  <ol type="5.a"></li>
+    <li>Logical Operators & Coalescing Intro</li>
+    <li>Short-circuiting with OR (||)</li>
+    <li>Short-circuiting with OR (||) Challenge</li>
+    <li>Short-circuiting with AND (&&)</li>
+    <li>Short-circuiting with AND (&&) Challenge</li>
+    <li>Nullish Coalescing</li>
+    <li>Optional Chaining</li>
+    <li>Super Challenge Library Software</li>
+    <li>Logical Operators & Coalescing Outro</li>
+  <li><h2>Working with Objects</h2>
+  <ol type="6.a">
+    <li>Working with Objects Intro</li>
+    <li>Objects and Inbuilt Methods</li>
+    <li>Object Methods Challenges 1</li>
+    <li>Object Methods Challenges 2</li>
+    <li>Object.hasOwn & .hasOwnProperty()</li>
+    <li>Assignment by Value/Reference</li>
+    <li>Spread Operator(…)</li>
+    <li>Spread Operator(…) Challenge</li>
+    <li>Object.assign</li>
+    <li>structuredClone</li>
+    <li>Objects with Methods and ‘this’</li>
+    <li>Binding ‘this’</li>
+    <li>Binding ‘this’ Challenge</li>
+    <li>Working with Objects Outro</li>
+	</ol>
+	</li>
+  <li><h2>Creating Custom Objects</h2>
+  <ol type="7.a">
+    <li>Creating Custom Objects Intro</li>
+    <li>Creating Objects Explainer</li>
+    <li>Factory Functions</li>
+    <li>Constructor Functions</li>
+    <li>Constructor Functions Challenge</li>
+    <li>Constructor Functions to Classes</li>
+    <li>Constructor Functions to Classes Challenge</li>
+    <li>.apply() and .call()</li>
+    <li>Inheritance Explainer</li>
+    <li>Inheritance with constructor functions</li>
+    <li>Inheritance with constructor functions Challenge</li>
+    <li>Inheritance with classes</li>
+    <li>Inheritance with classes Challenge</li>
+    <li>Static metods and properties</li>
+    <li>Static methods Challenge</li>
+    <li>Private Fields</li>
+    <li>Getters and Setters</li>
+    <li>Getters and Setters Challenge</li>
+    <li>Super Challenge: Game Characters</li>
+    <li>Creating Custom Objects Outro</li>
+    </ol>
+  </li>
+  <li><h2>Collections & Symbols</h2>
+  <ol type="8.a">
+    <li>Colllections and Symbols Intro</li>
+    <li>Symbols</li>
+    <li>Symbols Challenge</li>
+    <li>The Map object</li>
+    <li>Map Object Challenge</li>
+    <li>The Set Object</li>
+    <li>Sets Challenge</li>
+    <li>Collections and Symbols outro</li>
+    </ol>
+  </li>
+  <li><h2>Advanced Function Patters & Generators</h2>
+  <ol type="9.a">
+    <li>Advanced Function Patters Intro</li>
+    <li>Closures</li>
+    <li>Closures Part 2</li>
+    <li>Closures Challenge</li>
+    <li>IIFEs</li>
+    <li>Recursion Basic Example</li>
+    <li>Recursion Sum all numbers</li>
+    <li>Recursion and Unwinding</li>
+    <li>Recursion Challenge</li>
+    <li>Currying</li>
+    <li>Currying Partial Application</li>
+    <li>Currying challenge</li>
+    <li>Throttling and Debouncing</li>
+    <li>Throttling</li>
+    <li>Throttling Debug Challenge</li>
+    <li>Debouncing</li>
+    <li>Generators</li>
+    <li>Generators Challenge</li>
+    <li>Debouncing and Generators Super Challenge</li>
+    <li>Super Challenge Recursion</li>
+    <li>Advanced Function Patterns outro</li>
+    <li>Course Outro</li>
+	</ol>
+	</li>
+</ol>
