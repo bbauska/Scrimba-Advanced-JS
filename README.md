@@ -1,29 +1,30 @@
 # Scrimba-Advanced-JS Scrimba's Advanced JavaScript
 
   1.	Advanced Foundations
-    a.	Course Intro
-    b.	Advanced Foundations Intro
-    c.	The Ternary Operator
-    d.	The Ternary Operator for Complex Conditionals
-    e.	Ternary Operator Challenge
-    f.	Switch Statements
-    g.	Object Destructuring
-    h.	Object Destructuring Challenge
-    i.	setTimeout
-    j.	setTimeout with params
-    k.	setInterval
-    l.	The Event Loop
-    m.	Import Export: named
-    n.	Import Export: default
-    o.	The Date() Constructor
-    p.	The Error() Constructor
-    q.	Pre-increment
-    r.	Numeric Separators & BigInt
-    s.	Hoisting
-    t.	Super Challenge: Stock Ticker
-    u.	Super Challenge: Stock Ticker – Solution
-    v.	Advanced Foundations Outro
-  2.	Methods & Loops
+    - a.	Course Intro
+    - b.	Advanced Foundations Intro
+    - c.	The Ternary Operator
+    - d.	The Ternary Operator for Complex Conditionals
+    - e.	Ternary Operator Challenge
+    - f.	Switch Statements
+    - g.	Object Destructuring
+    - h.	Object Destructuring Challenge
+    - i.	setTimeout
+    - j.	setTimeout with params
+    - k.	setInterval
+    - l.	The Event Loop
+    - m.	Import Export: named
+    - n.	Import Export: default
+    - o.	The Date() Constructor
+    - p.	The Error() Constructor
+    - q.	Pre-increment
+    - r.	Numeric Separators & BigInt
+    - s.	Hoisting
+    - t.	Super Challenge: Stock Ticker
+    - u.	Super Challenge: Stock Ticker – Solution
+    - v.	Advanced Foundations Outro
+    
+  3.	Methods & Loops
     a.	Methods & Loops Intro
     b.	The for..of loop
     c.	The for..in loop
@@ -47,7 +48,7 @@
     u.	Super Challenge: Contact Search – Solution
     v.	Methods & Loops Outro
 
-  3.	Function Expressions & Parameters
+  4.	Function Expressions & Parameters
     a.	Function Expressions & Parameters Intro
     b.	Function Expressions
     c.	Function Expressions Challenge
@@ -63,7 +64,7 @@
     m.	Super Challenge: Real Estate – Solution
     n.	Function Expressions and Parameters Outro
 
-  4.	Asynchronous JavaScript & APIs
+  5.	Asynchronous JavaScript & APIs
 a.	Asynchronous JavaScript  & APIs Intro
 b.	What is an API?
 c.	Clients & Servers
@@ -87,7 +88,7 @@ t.	Using Promises to escape Callback Hell
 u.	Promise.all
 v.	Super Challenge: Async Image Load
 w.	Asynchronous JavaScript & APIs Outro
-5.	Logical Operators & Coalescing
+6.	Logical Operators & Coalescing
 a.	Logical Operators & Coalescing Intro
 b.	Short-circuiting with OR (||)
 c.	Short-circuiting with OR (||) Challenge
@@ -97,7 +98,7 @@ f.	Nullish Coalescing
 g.	Optional Chaining
 h.	Super Challenge Library Software
 i.	Logical Operators & Coalescing Outro
-6.	Working with Objects
+7.	Working with Objects
 a.	Working with Objects Intro
 b.	Objects and Inbuilt Methods
 c.	Object Methods Challenges 1
@@ -112,7 +113,7 @@ k.	Objects with Methods and ‘this’
 l.	Binding ‘this’
 m.	Binding ‘this’ Challenge
 n.	Working with Objects Outro
-7.	Creating Custom Objects
+8.	Creating Custom Objects
 a.	Creating Custom Objects Intro
 b.	Creating Objects Explainer
 c.	Factory Functions
@@ -133,7 +134,7 @@ q.	Getters and Setters
 r.	Getters and Setters Challenge
 s.	Super Challenge: Game Characters
 t.	Creating Custom Objects Outro
-8.	Collections & Symbols
+9.	Collections & Symbols
 a.	Colllections and Symbols Intro
 b.	Symbols
 c.	Symbols Challenge
@@ -142,7 +143,7 @@ e.	Map Object Challenge
 f.	The Set Object
 g.	Sets Challenge
 h.	Collections and Symbols outro
-9.	Advanced Function Patters & Generators
+10.	Advanced Function Patters & Generators
 a.	Advanced Function Patters Intro
 b.	Closures
 c.	Closures Part 2
