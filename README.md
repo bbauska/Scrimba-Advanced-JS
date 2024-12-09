@@ -89,7 +89,7 @@
   - v.	Super Challenge: Async Image Load
   - w.	Asynchronous JavaScript & APIs Outro
   
-6.	Logical Operators & Coalescing
+  ## 5.	Logical Operators & Coalescing
   - a.	Logical Operators & Coalescing Intro
   - b.	Short-circuiting with OR (||)
   - c.	Short-circuiting with OR (||) Challenge
@@ -100,7 +100,7 @@
   - h.	Super Challenge Library Software
   - i.	Logical Operators & Coalescing Outro
   
-7.	Working with Objects
+  ## 6.	Working with Objects
   - a.	Working with Objects Intro
   - b.	Objects and Inbuilt Methods
   - c.	Object Methods Challenges 1
@@ -116,7 +116,7 @@
   - m.	Binding ‘this’ Challenge
   -n.	Working with Objects Outro
   
-8.	Creating Custom Objects
+  ## 7.	Creating Custom Objects
   - a.	Creating Custom Objects Intro
   - b.	Creating Objects Explainer
   - c.	Factory Functions
@@ -138,7 +138,7 @@
   - s.	Super Challenge: Game Characters
   - t.	Creating Custom Objects Outro
 
-9.	Collections & Symbols
+  #8.	Collections & Symbols
   - a.	Colllections and Symbols Intro
   - b.	Symbols
   - c.	Symbols Challenge
@@ -148,7 +148,7 @@
   - g.	Sets Challenge
   - h.	Collections and Symbols outro
 
-10.	Advanced Function Patters & Generators
+  ##9.	Advanced Function Patters & Generators
   - a.	Advanced Function Patters Intro
   - b.	Closures
   - c.	Closures Part 2
