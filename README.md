@@ -2,7 +2,7 @@
 
 <ol type="1">
   <li><h2>Advanced Foundations</h2>
-  <ol type="1.a">
+  <ol type="A">
     <li>Course Intro</li>
     <li>Advanced Foundations Intro</li>
     <li>The Ternary Operator</li>
@@ -28,7 +28,7 @@
   </ol>
   </li>
   <li><h2>Methods & Loops</h2>
-  <ol type="2.a">
+  <ol type="A">
     <li>Methods & Loops Intro</li>
     <li>The for..of loop</li>
     <li>The for..in loop</li>
