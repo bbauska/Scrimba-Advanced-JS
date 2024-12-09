@@ -1,28 +1,28 @@
 # Scrimba-Advanced-JS Scrimba's Advanced JavaScript
 
   1.	Advanced Foundations
-    - a.	Course Intro
-    - b.	Advanced Foundations Intro
-    - c.	The Ternary Operator
-    - d.	The Ternary Operator for Complex Conditionals
-    - e.	Ternary Operator Challenge
-    - f.	Switch Statements
-    - g.	Object Destructuring
-    - h.	Object Destructuring Challenge
-    - i.	setTimeout
-    - j.	setTimeout with params
-    - k.	setInterval
-    - l.	The Event Loop
-    - m.	Import Export: named
-    - n.	Import Export: default
-    - o.	The Date() Constructor
-    - p.	The Error() Constructor
-    - q.	Pre-increment
-    - r.	Numeric Separators & BigInt
-    - s.	Hoisting
-    - t.	Super Challenge: Stock Ticker
-    - u.	Super Challenge: Stock Ticker – Solution
-    - v.	Advanced Foundations Outro
+  - a.	Course Intro
+  - b.	Advanced Foundations Intro
+  - c.	The Ternary Operator
+  - d.	The Ternary Operator for Complex Conditionals
+  - e.	Ternary Operator Challenge
+  - f.	Switch Statements
+  - g.	Object Destructuring
+  - h.	Object Destructuring Challenge
+  - i.	setTimeout
+  - j.	setTimeout with params
+  - k.	setInterval
+  - l.	The Event Loop
+  - m.	Import Export: named
+  - n.	Import Export: default
+  - o.	The Date() Constructor
+  - p.	The Error() Constructor
+  - q.	Pre-increment
+  - r.	Numeric Separators & BigInt
+  - s.	Hoisting
+  - t.	Super Challenge: Stock Ticker
+  - u.	Super Challenge: Stock Ticker – Solution
+  - v.	Advanced Foundations Outro
     
   3.	Methods & Loops
     a.	Methods & Loops Intro
