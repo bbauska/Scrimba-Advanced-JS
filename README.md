@@ -2,7 +2,7 @@
 
 <ol type="1">
   <li><h2>Advanced Foundations</h2>
-  <ol type="A">
+  <ol type="a">
     <li>Course Intro</li>
     <li>Advanced Foundations Intro</li>
     <li>The Ternary Operator</li>
@@ -28,7 +28,7 @@
   </ol>
   </li>
   <li><h2>Methods & Loops</h2>
-  <ol type="A">
+  <ol type="a">
     <li>Methods & Loops Intro</li>
     <li>The for..of loop</li>
     <li>The for..in loop</li>
@@ -54,7 +54,7 @@
   </ol>
   </li>
   <li><h2>Function Expressions & Parameters</h2>
-  <ol type="3.a">
+  <ol type="a">
     <li>Function Expressions & Parameters Intro</li>
     <li>Function Expressions</li>
     <li>Function Expressions Challenge</li>
@@ -72,7 +72,7 @@
     </ol>
 	</li>
   <li><h2>Asynchronous JavaScript & APIs</h2>
-  <ol type="4.a">
+  <ol type="a">
     <li>Asynchronous JavaScript  & APIs Intro</li>
     <li>What is an API?</li>
     <li>Clients & Servers</li>
@@ -99,7 +99,7 @@
     </ol>
 	</li>
   <li><h2>Logical Operators & Coalescing</h2>
-  <ol type="5.a"></li>
+  <ol type="a"></li>
     <li>Logical Operators & Coalescing Intro</li>
     <li>Short-circuiting with OR (||)</li>
     <li>Short-circuiting with OR (||) Challenge</li>
@@ -112,7 +112,7 @@
 	</ol>
 	</li>
   <li><h2>Working with Objects</h2>
-  <ol type="6.a">
+  <ol type="a">
     <li>Working with Objects Intro</li>
     <li>Objects and Inbuilt Methods</li>
     <li>Object Methods Challenges 1</li>
@@ -130,7 +130,7 @@
 	</ol>
 	</li>
   <li><h2>Creating Custom Objects</h2>
-  <ol type="7.a">
+  <ol type="a">
     <li>Creating Custom Objects Intro</li>
     <li>Creating Objects Explainer</li>
     <li>Factory Functions</li>
@@ -154,7 +154,7 @@
     </ol>
   </li>
   <li><h2>Collections & Symbols</h2>
-  <ol type="8.a">
+  <ol type="a">
     <li>Colllections and Symbols Intro</li>
     <li>Symbols</li>
     <li>Symbols Challenge</li>
@@ -166,7 +166,7 @@
     </ol>
   </li>
   <li><h2>Advanced Function Patters & Generators</h2>
-  <ol type="9.a">
+  <ol type="a">
     <li>Advanced Function Patters Intro</li>
     <li>Closures</li>
     <li>Closures Part 2</li>
