@@ -25,28 +25,28 @@
   - v.	Advanced Foundations Outro
     
   3.	Methods & Loops
-    a.	Methods & Loops Intro
-    b.	The for..of loop
-    c.	The for..in loop
-    d.	The .forEach() Method
-    e.	The .includes() Method
-    f.	The .map() Method
-    g.	The .map() Method Challenge
-    h.	The .join() Method
-    i.	The .join() Method Challenge
-    j.	.map() vs .forEach()
-    k.	The .filter() Method
-    l.	The .filter() Method with Objects
-    m.	The .reduce() Method
-    n.	The .reduce() Method Challenge
-    o.	The .reduce() Method with Objects
-    p.	For loop Break and Continue
-    q.	Various Array Methods
-    r.	string.replace and repaceAll
-    s.	Regex flags and constructor
-    t.	Super Challenge: Contact Search
-    u.	Super Challenge: Contact Search – Solution
-    v.	Methods & Loops Outro
+  - a.	Methods & Loops Intro
+  - b.	The for..of loop
+  - c.	The for..in loop
+  - d.	The .forEach() Method
+  - e.	The .includes() Method
+  - f.	The .map() Method
+  - g.	The .map() Method Challenge
+  - h.	The .join() Method
+  - i.	The .join() Method Challenge
+  - j.	.map() vs .forEach()
+  - k.	The .filter() Method
+  - l.	The .filter() Method with Objects
+  - m.	The .reduce() Method
+  - n.	The .reduce() Method Challenge
+  - o.	The .reduce() Method with Objects
+  - p.	For loop Break and Continue
+  - q.	Various Array Methods
+  - r.	string.replace and repaceAll
+  - s.	Regex flags and constructor
+  - t.	Super Challenge: Contact Search
+  - u.	Super Challenge: Contact Search – Solution
+  - v.	Methods & Loops Outro
 
   4.	Function Expressions & Parameters
     a.	Function Expressions & Parameters Intro
