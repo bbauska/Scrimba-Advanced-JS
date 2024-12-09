@@ -1,7 +1,7 @@
 # Scrimba-Advanced-JS Scrimba's Advanced JavaScript
 
 <ol type="1">
-  <li>Advanced Foundations
+  <li><h2>Advanced Foundations</h2>
   <ol type="a">
     <li>Course Intro</li>
     <li>Advanced Foundations Intro</li>
@@ -27,49 +27,50 @@
     <li>Advanced Foundations Outro</li>
   </ol>
   </li>
-</ol>
-    
-  ## 2.	Methods & Loops
-  - a.	Methods & Loops Intro
-  - b.	The for..of loop
-  - c.	The for..in loop
-  - d.	The .forEach() Method
-  - e.	The .includes() Method
-  - f.	The .map() Method
-  - g.	The .map() Method Challenge
-  - h.	The .join() Method
-  - i.	The .join() Method Challenge
-  - j.	.map() vs .forEach()
-  - k.	The .filter() Method
-  - l.	The .filter() Method with Objects
-  - m.	The .reduce() Method
-  - n.	The .reduce() Method Challenge
-  - o.	The .reduce() Method with Objects
-  - p.	For loop Break and Continue
-  - q.	Various Array Methods
-  - r.	string.replace and repaceAll
-  - s.	Regex flags and constructor
-  - t.	Super Challenge: Contact Search
-  - u.	Super Challenge: Contact Search – Solution
-  - v.	Methods & Loops Outro
-
-  ## 3.	Function Expressions & Parameters
-  - a.	Function Expressions & Parameters Intro
-  - b.	Function Expressions
-  - c.	Function Expressions Challenge
-  - d.	Arrow Functions
-  - e.	Arrow Functions Challenge
-  - f.	Inline Arrow Functions Challenge
-  - g.	Inline Arrow Functions Refactor Challenge
-  - h.	Default Parameters
-  - i.	The Rest Parameters
-  - j.	The Rest Parameters Challenge
-  - k.	Callback Functions
-  - l.	Super Challenge: Real Estate
-  - m.	Super Challenge: Real Estate – Solution
-  - n.	Function Expressions and Parameters Outro
-
-  ## 4.	Asynchronous JavaScript & APIs
+  <li><h2>Methods & Loops</h2>
+  <ol type="a">
+    <li>Methods & Loops Intro</li>
+    <li>The for..of loop</li>
+    <li>The for..in loop</li>
+    <li>The .forEach() Method</li>
+    <li>The .includes() Method</li>
+    <li>The .map() Method</li>
+    <li>The .map() Method Challenge</li>
+    <li>The .join() Method</li>
+    <li>The .join() Method Challenge</li>
+    <li>.map() vs .forEach()</li>
+    <li>The .filter() Method</li>
+    <li>The .filter() Method with Objects</li>
+    <li>The .reduce() Method</li>
+    <li>The .reduce() Method Challenge</li>
+    <li>The .reduce() Method with Objects</li>
+    <li>For loop Break and Continue</li>
+    <li>Various Array Methods</li>
+    <li>string.replace and repaceAll</li>
+    <li>Regex flags and constructor</li>
+    <li>Super Challenge: Contact Search</li>
+    <li>Super Challenge: Contact Search – Solution</li>
+    <li>Methods & Loops Outro</li>
+  </ol>
+  </li>
+  <li><h2>Function Expressions & Parameters</h2>
+    <li>Function Expressions & Parameters Intro</li>
+    <li>Function Expressions</li>
+    <li>Function Expressions Challenge</li>
+    <li>Arrow Functions</li>
+    <li>Arrow Functions Challenge</li>
+    <li>Inline Arrow Functions Challenge</li>
+    <li>Inline Arrow Functions Refactor Challenge</li>
+    <li>Default Parameters</li>
+    <li>The Rest Parameters</li>
+    <li>The Rest Parameters Challenge</li>
+    <li>Callback Functions</li>
+    <li>Super Challenge: Real Estate</li>
+    <li>Super Challenge: Real Estate – Solution</li>
+    <li>Function Expressions and Parameters Outro</li>
+    </ol>
+	</li>
+	<li><h2>Asynchronous JavaScript & APIs</h2>
   - a.	Asynchronous JavaScript  & APIs Intro
   - b.	What is an API?
   - c.	Clients & Servers
