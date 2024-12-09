@@ -1,6 +1,6 @@
 # Scrimba-Advanced-JS Scrimba's Advanced JavaScript
 
-  1.	Advanced Foundations
+  ## 1.	Advanced Foundations
   - a.	Course Intro
   - b.	Advanced Foundations Intro
   - c.	The Ternary Operator
@@ -24,7 +24,7 @@
   - u.	Super Challenge: Stock Ticker – Solution
   - v.	Advanced Foundations Outro
     
-  3.	Methods & Loops
+  ## 2.	Methods & Loops
   - a.	Methods & Loops Intro
   - b.	The for..of loop
   - c.	The for..in loop
@@ -48,7 +48,7 @@
   - u.	Super Challenge: Contact Search – Solution
   - v.	Methods & Loops Outro
 
-  4.	Function Expressions & Parameters
+  ## 3.	Function Expressions & Parameters
   - a.	Function Expressions & Parameters Intro
   - b.	Function Expressions
   - c.	Function Expressions Challenge
@@ -64,7 +64,7 @@
   - m.	Super Challenge: Real Estate – Solution
   - n.	Function Expressions and Parameters Outro
 
-  5.	Asynchronous JavaScript & APIs
+  ## 4.	Asynchronous JavaScript & APIs
   - a.	Asynchronous JavaScript  & APIs Intro
   - b.	What is an API?
   - c.	Clients & Servers
