@@ -1,28 +1,33 @@
 # Scrimba-Advanced-JS Scrimba's Advanced JavaScript
 
-  ## 1.	Advanced Foundations
-  - a.	Course Intro
-  - b.	Advanced Foundations Intro
-  - c.	The Ternary Operator
-  - d.	The Ternary Operator for Complex Conditionals
-  - e.	Ternary Operator Challenge
-  - f.	Switch Statements
-  - g.	Object Destructuring
-  - h.	Object Destructuring Challenge
-  - i.	setTimeout
-  - j.	setTimeout with params
-  - k.	setInterval
-  - l.	The Event Loop
-  - m.	Import Export: named
-  - n.	Import Export: default
-  - o.	The Date() Constructor
-  - p.	The Error() Constructor
-  - q.	Pre-increment
-  - r.	Numeric Separators & BigInt
-  - s.	Hoisting
-  - t.	Super Challenge: Stock Ticker
-  - u.	Super Challenge: Stock Ticker – Solution
-  - v.	Advanced Foundations Outro
+<ol type="1">
+  <li>Advanced Foundations
+  <ol type="a">
+    <li>Course Intro</li>
+    <li>Advanced Foundations Intro</li>
+    <li>The Ternary Operator</li>
+    <li>The Ternary Operator for Complex Conditionals</li>
+    <li>Ternary Operator Challenge</li>
+    <li>Switch Statements</li>
+    <li>Object Destructuring</li>
+    <li>Object Destructuring Challenge</li>
+    <li>setTimeout</li>
+    <li>setTimeout with params</li>
+    <li>setInterval</li>
+    <li>The Event Loop</li>
+    <li>Import Export: named</li>
+    <li>Import Export: default</li>
+    <li>The Date() Constructor</li>
+    <li>The Error() Constructor</li>
+    <li>Pre-increment</li>
+    <li>Numeric Separators & BigInt</li>
+    <li>Hoisting</li>
+    <li>Super Challenge: Stock Ticker</li>
+    <li>Super Challenge: Stock Ticker – Solution</li>
+    <li>Advanced Foundations Outro</li>
+  </ol>
+  </li>
+</ol>
     
   ## 2.	Methods & Loops
   - a.	Methods & Loops Intro
@@ -138,7 +143,7 @@
   - s.	Super Challenge: Game Characters
   - t.	Creating Custom Objects Outro
 
-  #8.	Collections & Symbols
+  ## 8.	Collections & Symbols
   - a.	Colllections and Symbols Intro
   - b.	Symbols
   - c.	Symbols Challenge
@@ -148,7 +153,7 @@
   - g.	Sets Challenge
   - h.	Collections and Symbols outro
 
-  ##9.	Advanced Function Patters & Generators
+  ## 9.	Advanced Function Patters & Generators
   - a.	Advanced Function Patters Intro
   - b.	Closures
   - c.	Closures Part 2
